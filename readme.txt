@@ -8,6 +8,4 @@ Features:
 
 How to use:
 1. Open index.html
-2. Replace name, image, and content
-3. Deploy on Netlify / Vercel
-
+2. Go Live
